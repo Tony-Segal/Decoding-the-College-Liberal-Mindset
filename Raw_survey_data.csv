@@ -1,0 +1,198 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,Q1C_1,Q2L_1,Q3I_1,Q4,Q5
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,"A conservative subnational group has been pushing for a tax cut policy to incentivize the construction of private on and offshore wind farms.
+
+
+Pros:
+
+- More cheap and renewable energy
+
+- More clean energy jobs
+
+
+Cons:
+
+- Environmental damages (i.e. Bird deaths, possible habitat destruction/disruption)
+
+- Noise pollution affecting local inhabitants and ecosystems
+
+- Potential minor pollution during construction - How much do you support this policy based on the information above? (0 = Strongly opposed, 10 = Strongly in favor)","A liberal subnational group has been pushing for a tax cut policy to incentivize the construction of private on and offshore wind farms.
+
+Pros:
+
+- More cheap and renewable energy
+- More clean energy jobs
+
+Cons:
+
+- Environmental damages (i.e. Bird deaths, possible habitat destruction/disruption)
+- Noise pollution affecting local inhabitants and ecosystems
+- Potential minor pollution during construction - How much do you support this policy based on the information given above? (0 = Strongly opposed, 10 = Strongly in favor)","Subnational legislators are considering a new tax cut policy to incentivize the construction of private on and offshore wind farms.
+
+Pros:
+- More cheap and renewable energy
+- More clean energy jobs
+
+Cons:
+- Environmental damages (i.e. Bird deaths, possible habitat destruction/disruption)
+- Noise pollution affecting local inhabitants and ecosystems
+- Potential minor pollution during construction - How much do you support this policy based on the information above? (0 = Strongly opposed, 10 = Strongly in favor)",How do you politcally identify?,What year are you in college?
+"{""ImportId"":""startDate"",""timeZone"":""America/Los_Angeles""}","{""ImportId"":""endDate"",""timeZone"":""America/Los_Angeles""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Los_Angeles""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID1_1""}","{""ImportId"":""QID8_1""}","{""ImportId"":""QID9_1""}","{""ImportId"":""QID2""}","{""ImportId"":""QID11""}"
+2025-05-18 13:03:58,2025-05-18 13:04:23,IP Address,184.186.226.253,100,25,True,2025-05-18 13:04:23,R_5QYx8Aik2QJSPRn,,,,,34.4216,-119.7068,anonymous,EN,,8,,Liberal,3rd year
+2025-05-18 13:24:08,2025-05-18 13:24:25,IP Address,172.91.227.217,100,17,True,2025-05-18 13:24:26,R_6DES4gwnZkizGnf,,,,,34.413,-118.4269,anonymous,EN,,,,Liberal,3rd year
+2025-05-18 13:24:38,2025-05-18 13:25:28,IP Address,107.116.170.141,100,49,True,2025-05-18 13:25:29,R_1Du3Zo7yS14dA4p,,,,,33.7499,-117.9071,anonymous,EN,,5,,Liberal,3rd year
+2025-05-18 14:19:31,2025-05-18 14:19:38,IP Address,184.189.220.193,100,6,True,2025-05-18 14:19:39,R_6M4N4mt7FXnMMMN,,,,,34.4275,-119.859,anonymous,EN,,,,Liberal,3rd year
+2025-05-18 14:29:29,2025-05-18 14:30:28,IP Address,169.231.98.34,100,59,True,2025-05-18 14:30:29,R_5TAJ6ikUvT6kuGx,,,,,34.0337,-118.3509,anonymous,EN,4,,,Liberal,3rd year
+2025-05-18 14:38:13,2025-05-18 14:39:01,IP Address,172.56.120.46,100,48,True,2025-05-18 14:39:02,R_7nKkRre4UjUbuX7,,,,,34.1867,-118.3878,anonymous,EN,,,10,Liberal,3rd year
+2025-05-18 18:00:45,2025-05-18 18:18:31,IP Address,68.6.82.196,100,1065,True,2025-05-18 18:18:31,R_7G9ny0uDajpQC5P,,,,,34.445,-119.8046,anonymous,EN,,7,,Liberal,3rd year
+2025-05-18 18:19:09,2025-05-18 18:19:41,IP Address,68.108.255.195,100,31,True,2025-05-18 18:19:41,R_7Dnp5dcldMtTe4r,,,,,34.4216,-119.7068,anonymous,EN,,,7,Liberal,3rd year
+2025-05-18 18:21:22,2025-05-18 18:22:10,IP Address,169.231.159.86,100,48,True,2025-05-18 18:22:11,R_7tbAL7OzkaSqsud,,,,,34.4275,-119.859,anonymous,EN,,,,Liberal,3rd year
+2025-05-18 20:13:47,2025-05-18 20:14:50,IP Address,104.28.124.87,100,62,True,2025-05-18 20:14:51,R_5hEEXWFL8kAFyhX,,,,,34.0672,-118.3016,anonymous,EN,,,6,Liberal,3rd year
+2025-05-19 12:56:39,2025-05-19 12:56:53,IP Address,174.238.15.179,100,14,True,2025-05-19 12:56:54,R_1NnAFkSjxCAvMeB,,,,,37.7428,-122.1745,anonymous,EN,9,,,Liberal,2nd year
+2025-05-19 12:56:24,2025-05-19 12:56:56,IP Address,68.6.82.196,100,32,True,2025-05-19 12:56:56,R_5LtH3Rj6DqjJWZc,,,,,34.445,-119.8046,anonymous,EN,,6,,Liberal,4th year
+2025-05-19 12:58:26,2025-05-19 12:59:00,IP Address,169.231.188.188,100,33,True,2025-05-19 12:59:00,R_3HodCD91sAXcm9b,,,,,34.4275,-119.859,anonymous,EN,,,7,Liberal,3rd year
+2025-05-19 12:58:05,2025-05-19 12:59:05,IP Address,68.99.126.150,100,60,True,2025-05-19 12:59:06,R_3G3p51TuYGcFCu7,,,,,34.4216,-119.7068,anonymous,EN,4,,,Conservative,3rd year
+2025-05-19 13:09:32,2025-05-19 13:10:24,IP Address,128.111.143.57,100,52,True,2025-05-19 13:10:25,R_11sePFTs8oymCAx,,,,,34.4398,-119.7315,anonymous,EN,,,9,Liberal,3rd year
+2025-05-19 13:10:20,2025-05-19 13:10:54,IP Address,172.56.120.33,100,34,True,2025-05-19 13:10:54,R_7r1B2ExRKQDnJNv,,,,,34.1867,-118.3878,anonymous,EN,2,,,Conservative,2nd year
+2025-05-19 13:13:44,2025-05-19 13:14:27,IP Address,12.75.216.71,100,43,True,2025-05-19 13:14:27,R_7O03eeuB53ANPzP,,,,,45.5248,-122.6789,anonymous,EN,,8,,Independent,2nd year
+2025-05-19 13:20:34,2025-05-19 13:21:14,IP Address,68.6.80.249,100,40,True,2025-05-19 13:21:14,R_5iqkqxcYeAQs8Wa,,,,,34.445,-119.8046,anonymous,EN,,3,,Independent,3rd year
+2025-05-19 13:20:52,2025-05-19 13:21:26,IP Address,169.231.64.89,100,34,True,2025-05-19 13:21:26,R_7m1wsHKAwxwbwRI,,,,,34.4366,-119.8339,anonymous,EN,,,8,Liberal,3rd year
+2025-05-19 13:21:43,2025-05-19 13:23:01,IP Address,174.227.167.7,100,78,True,2025-05-19 13:23:02,R_5RaMUR7uI1Ra4Se,,,,,37.5958,-122.0191,anonymous,EN,4,,,Liberal,3rd year
+2025-05-19 13:25:31,2025-05-19 13:26:44,IP Address,146.75.146.153,100,73,True,2025-05-19 13:26:45,R_3pVskOB5hhMfNsZ,,,,,34.4216,-119.7068,anonymous,EN,,,6,Liberal,3rd year
+2025-05-19 13:32:32,2025-05-19 13:32:55,IP Address,104.28.123.182,100,22,True,2025-05-19 13:32:55,R_7KNNGrIqWs3IjHb,,,,,37.3388,-121.8916,anonymous,EN,,10,,Liberal,1st year
+2025-05-19 13:38:28,2025-05-19 13:39:33,IP Address,128.111.143.57,100,65,True,2025-05-19 13:39:34,R_1bamA8JmDeyPZtf,,,,,34.4398,-119.7315,anonymous,EN,,8,,Liberal,Other
+2025-05-19 14:10:00,2025-05-19 14:10:48,IP Address,98.185.223.129,100,47,True,2025-05-19 14:10:49,R_7e3oId40Ko34pVU,,,,,34.4275,-119.859,anonymous,EN,,7,,Liberal,2nd year
+2025-05-19 15:21:33,2025-05-19 15:22:03,IP Address,128.111.143.57,100,29,True,2025-05-19 15:22:03,R_1e5H3OX6oz8RxeN,,,,,34.4398,-119.7315,anonymous,EN,8,,,Liberal,4th year
+2025-05-19 16:03:01,2025-05-19 16:03:59,IP Address,107.77.230.65,100,58,True,2025-05-19 16:04:00,R_5p4EDUcOm4CEcBD,,,,,34.0544,-118.244,anonymous,EN,,3,,Liberal,1st year
+2025-05-19 16:32:59,2025-05-19 16:33:22,IP Address,70.185.133.96,100,22,True,2025-05-19 16:33:22,R_5IzoOSUPMNdHgiP,,,,,34.4275,-119.859,anonymous,EN,,4,,Liberal,2nd year
+2025-05-19 16:33:05,2025-05-19 16:33:58,IP Address,70.185.132.3,100,52,True,2025-05-19 16:33:58,R_6Mnu90QdJEnZMxc,,,,,34.4275,-119.859,anonymous,EN,5,,,Other,3rd year
+2025-05-19 16:34:04,2025-05-19 16:34:36,IP Address,174.238.7.142,100,31,True,2025-05-19 16:34:36,R_3OGIUhDAQ3CuT31,,,,,37.6787,-122.127,anonymous,EN,,,2,Liberal,3rd year
+2025-05-19 16:39:21,2025-05-19 16:40:03,IP Address,68.6.116.30,100,41,True,2025-05-19 16:40:03,R_1nO9AAdnQbEzu7D,,,,,34.4216,-119.7068,anonymous,EN,6,,,Independent,3rd year
+2025-05-19 16:40:56,2025-05-19 16:41:37,IP Address,68.108.254.230,100,40,True,2025-05-19 16:41:38,R_1GNUHuzVCZVLrUt,,,,,34.4216,-119.7068,anonymous,EN,,2,,Liberal,3rd year
+2025-05-19 16:45:41,2025-05-19 16:46:15,IP Address,172.56.178.110,100,34,True,2025-05-19 16:46:16,R_5tK07UHZRKyh2t1,,,,,34.1211,-117.4362,anonymous,EN,8,,,Liberal,3rd year
+2025-05-19 16:50:30,2025-05-19 16:53:52,IP Address,169.231.186.50,100,202,True,2025-05-19 16:53:52,R_1MagA2w2vCQ11Fq,,,,,34.4275,-119.859,anonymous,EN,,,6,Liberal,3rd year
+2025-05-19 16:55:56,2025-05-19 16:56:43,IP Address,47.143.50.37,100,47,True,2025-05-19 16:56:44,R_3Ikkxd0ezF7rf8J,,,,,34.4216,-119.7068,anonymous,EN,,9,,Liberal,3rd year
+2025-05-19 17:12:15,2025-05-19 17:12:54,IP Address,107.116.170.13,100,39,True,2025-05-19 17:12:55,R_1l69l9fKFRJhJxl,,,,,33.7499,-117.9071,anonymous,EN,,,10,Liberal,3rd year
+2025-05-19 17:15:31,2025-05-19 17:16:08,IP Address,169.231.178.159,100,36,True,2025-05-19 17:16:09,R_5ARC3Fsjrpy1sAN,,,,,34.4275,-119.859,anonymous,EN,,,,Independent,3rd year
+2025-05-19 17:18:20,2025-05-19 17:19:13,IP Address,169.231.60.133,100,53,True,2025-05-19 17:19:14,R_61bhsH40nyzM7US,,,,,34.4275,-119.859,anonymous,EN,5,,,Liberal,4th year
+2025-05-19 17:20:15,2025-05-19 17:20:44,IP Address,174.238.11.142,100,28,True,2025-05-19 17:20:45,R_3syo4czkRwqqqJf,,,,,37.6736,-122.0944,anonymous,EN,,,8,Liberal,3rd year
+2025-05-19 17:20:37,2025-05-19 17:21:33,IP Address,75.104.65.131,100,56,True,2025-05-19 17:21:34,R_3ItkTt1TvcUc0DY,,,,,42.3602,-71.0594,anonymous,EN,,0,,,
+2025-05-19 17:30:44,2025-05-19 17:31:41,IP Address,169.231.51.223,100,57,True,2025-05-19 17:31:42,R_3p3yMocwPsrWdfR,,,,,34.4275,-119.859,anonymous,EN,6,,,Liberal,1st year
+2025-05-19 17:42:11,2025-05-19 17:43:03,IP Address,169.231.186.30,100,52,True,2025-05-19 17:43:07,R_6qfaDEJggaDBqCk,,,,,34.4275,-119.859,anonymous,EN,,4,,Liberal,1st year
+2025-05-19 17:52:49,2025-05-19 17:53:32,IP Address,70.183.26.242,100,43,True,2025-05-19 17:53:33,R_61ixd9FPT0A91eM,,,,,33.7074,-117.7054,anonymous,EN,,,8,Liberal,3rd year
+2025-05-19 17:55:35,2025-05-19 17:56:14,IP Address,68.108.255.195,100,39,True,2025-05-19 17:56:15,R_58D7rt832B4y1wG,,,,,34.4216,-119.7068,anonymous,EN,,7,,Liberal,3rd year
+2025-05-19 17:56:50,2025-05-19 17:57:41,IP Address,174.194.197.228,100,50,True,2025-05-19 17:57:41,R_5CNt7eaXU9LTRso,,,,,37.6403,-122.0667,anonymous,EN,5,,,Independent,3rd year
+2025-05-19 18:53:03,2025-05-19 18:53:57,IP Address,68.6.83.37,100,54,True,2025-05-19 18:54:00,R_35tPOpYJ8nUVO7E,,,,,34.445,-119.8046,anonymous,EN,2,,,Liberal,3rd year
+2025-05-19 19:20:03,2025-05-19 19:20:35,IP Address,31.222.81.134,100,32,True,2025-05-19 19:20:36,R_2CkFei4V5OloXXL,,,,,41.383,2.1181,anonymous,EN,,,,Liberal,3rd year
+2025-05-19 19:46:29,2025-05-19 19:47:15,IP Address,104.55.166.132,100,45,True,2025-05-19 19:47:15,R_1g8cpa8pyhlDFqX,,,,,38.4354,-122.7128,anonymous,EN,,8,,Liberal,4th year
+2025-05-19 22:40:45,2025-05-19 22:41:17,IP Address,81.56.43.150,100,32,True,2025-05-19 22:41:18,R_2MbuAZAq2wkYwU1,,,,,41.8905,12.5127,anonymous,EN,,6,,Other,3rd year
+2025-05-19 23:07:08,2025-05-19 23:07:49,IP Address,184.187.168.3,100,40,True,2025-05-19 23:07:50,R_7g71FXwe7nbBlFu,,,,,34.4275,-119.859,anonymous,EN,,8,,Liberal,3rd year
+2025-05-20 00:14:23,2025-05-20 00:14:36,IP Address,98.185.223.6,100,13,True,2025-05-20 00:14:37,R_5KuJ0mSgKtZwZjD,,,,,34.4275,-119.859,anonymous,EN,,,,Liberal,3rd year
+2025-05-20 15:41:46,2025-05-20 15:42:43,IP Address,207.212.33.106,100,57,True,2025-05-20 15:42:44,R_5PKS1W9dAtgBMGA,,,,,33.8359,-117.9063,anonymous,EN,,,7,Liberal,3rd year
+2025-05-14 21:44:36,2025-05-14 21:49:10,IP Address,70.185.135.114,75,274,False,2025-05-21 21:49:15,R_6lVxSb4NUpaBFqp,,,,,34.4275,-119.859,anonymous,EN,6,,,,
+2025-05-22 12:54:43,2025-05-22 12:55:44,IP Address,207.212.33.21,100,60,True,2025-05-22 12:55:44,R_7OkzXZHZBr9N9yx,,,,,33.8359,-117.9063,anonymous,EN,,,3,Liberal,2nd year
+2025-05-23 09:16:08,2025-05-23 09:16:37,IP Address,68.6.108.193,100,29,True,2025-05-23 09:16:37,R_3PU0i2PFuLVPk65,,,,,34.4026,-119.7211,anonymous,EN,,8,,Liberal,4th year
+2025-05-23 09:20:24,2025-05-23 09:21:44,IP Address,68.108.255.195,100,79,True,2025-05-23 09:21:44,R_6JaWGLuXmpVtYLn,,,,,34.4216,-119.7068,anonymous,EN,,,7,Liberal,3rd year
+2025-05-23 09:22:18,2025-05-23 09:22:57,IP Address,68.6.114.73,100,39,True,2025-05-23 09:22:58,R_5wnyMMpMj0E4KsE,,,,,34.4398,-119.7315,anonymous,EN,2,,,Liberal,3rd year
+2025-05-23 09:32:10,2025-05-23 09:33:00,IP Address,72.158.132.15,100,50,True,2025-05-23 09:33:01,R_6mGf3UnlHyhWxbz,,,,,38.8842,-76.9941,anonymous,EN,,7,,Conservative,4th year
+2025-05-23 09:38:19,2025-05-23 09:38:55,IP Address,98.185.216.80,100,35,True,2025-05-23 09:38:56,R_3Lnuc3n9FSIE4fP,,,,,34.4275,-119.859,anonymous,EN,8,,,Liberal,3rd year
+2025-05-23 10:11:08,2025-05-23 10:12:12,IP Address,169.231.240.118,100,64,True,2025-05-23 10:12:13,R_3zBgrLYRBfHYSyJ,,,,,34.4275,-119.859,anonymous,EN,,,4,Independent,3rd year
+2025-05-23 10:26:32,2025-05-23 10:27:17,IP Address,85.82.74.187,100,44,True,2025-05-23 10:27:18,R_8qC97ggrR7lBgsQ,,,,,55.674,12.5696,anonymous,EN,6,,,Liberal,4th year
+2025-05-23 10:40:44,2025-05-23 10:41:15,IP Address,70.183.26.242,100,31,True,2025-05-23 10:41:15,R_7RKlQp0FFjPSY37,,,,,33.7074,-117.7054,anonymous,EN,,,1,Liberal,3rd year
+2025-05-23 10:48:28,2025-05-23 10:48:45,IP Address,184.187.170.163,100,17,True,2025-05-23 10:48:46,R_3wTF34qnvbmYmMV,,,,,34.4275,-119.859,anonymous,EN,,8,,Liberal,4th year
+2025-05-23 11:12:10,2025-05-23 11:13:06,IP Address,47.155.218.176,100,55,True,2025-05-23 11:13:06,R_5Dc4Kb5TNi2uoDt,,,,,34.9535,-120.4348,anonymous,EN,,3,,Liberal,2nd year
+2025-05-23 13:18:13,2025-05-23 13:18:59,IP Address,128.111.143.57,100,46,True,2025-05-23 13:19:00,R_1cYZZihlr05GHrr,,,,,34.4398,-119.7315,anonymous,EN,1,,,Liberal,2nd year
+2025-05-23 13:21:16,2025-05-23 13:21:47,IP Address,108.147.175.125,100,31,True,2025-05-23 13:21:47,R_5esj20sOL9CeWRn,,,,,39.7391,-104.9866,anonymous,EN,,3,,Liberal,3rd year
+2025-05-23 13:32:02,2025-05-23 13:32:47,IP Address,169.231.104.3,100,44,True,2025-05-23 13:32:48,R_3CeaYQgpdFFUPcM,,,,,34.4275,-119.859,anonymous,EN,7,,,Liberal,4th year
+2025-05-23 15:18:00,2025-05-23 15:18:37,IP Address,68.227.81.46,100,36,True,2025-05-23 15:18:38,R_3fDqkp0pGvVoTEP,,,,,34.4275,-119.859,anonymous,EN,,8,,Liberal,2nd year
+2025-05-23 15:19:30,2025-05-23 15:20:08,IP Address,169.231.203.138,100,38,True,2025-05-23 15:20:08,R_71arehE6wVY4yKV,,,,,34.4275,-119.859,anonymous,EN,,,7,Other,1st year
+2025-05-23 15:31:46,2025-05-23 15:33:27,IP Address,68.6.95.37,100,101,True,2025-05-23 15:33:28,R_5HRC6yGl5MSaUVj,,,,,34.4026,-119.7211,anonymous,EN,6,,,Liberal,3rd year
+2025-05-23 17:28:44,2025-05-23 17:29:16,IP Address,104.28.124.87,100,31,True,2025-05-23 17:29:16,R_1YJPTboAJaQQ8KK,,,,,34.0672,-118.3016,anonymous,EN,,9,,Independent,3rd year
+2025-05-23 17:36:31,2025-05-23 17:37:13,IP Address,173.196.233.170,100,42,True,2025-05-23 17:37:14,R_6uCKmWrXCqGzwMF,,,,,34.3802,-118.5219,anonymous,EN,,,7,Independent,1st year
+2025-05-23 18:16:52,2025-05-23 18:17:47,IP Address,73.140.253.37,100,54,True,2025-05-23 18:17:47,R_30CvMdnecDWrduN,,,,,47.4626,-122.2089,anonymous,EN,2,,,Independent,3rd year
+2025-05-23 19:23:52,2025-05-23 19:24:41,IP Address,172.225.137.235,100,48,True,2025-05-23 19:24:41,R_4i83w7CsfOLZaEN,,,,,19.0748,72.8856,anonymous,EN,,5,,Liberal,Other
+2025-05-23 21:07:18,2025-05-23 21:08:10,IP Address,174.227.181.240,100,52,True,2025-05-23 21:08:11,R_3vKecHMtYGgQZJn,,,,,37.6736,-122.0944,anonymous,EN,,,,Liberal,3rd year
+2025-05-24 16:57:14,2025-05-24 16:57:42,IP Address,104.28.124.179,100,28,True,2025-05-24 16:57:43,R_3EyvUmgCazkOtKF,,,,,37.3209,-121.9126,anonymous,EN,,7,,Liberal,2nd year
+2025-05-25 00:23:31,2025-05-25 00:24:13,IP Address,98.185.247.204,100,42,True,2025-05-25 00:24:13,R_7BJQlTbUM9LuTo5,,,,,34.4216,-119.7068,anonymous,EN,0,,,Liberal,2nd year
+2025-05-25 16:41:38,2025-05-25 16:41:50,IP Address,24.252.224.181,100,11,True,2025-05-25 16:41:50,R_3EBjewc51WQ5Zb2,,,,,34.4216,-119.7068,anonymous,EN,,,,,
+2025-05-25 23:31:52,2025-05-25 23:32:02,IP Address,73.202.206.235,100,10,True,2025-05-25 23:32:03,R_5AU5CVH4vRBowCJ,,,,,37.4043,-122.0748,anonymous,EN,,0,,Conservative,Other
+2025-05-25 23:32:09,2025-05-25 23:32:17,IP Address,73.202.206.235,100,7,True,2025-05-25 23:32:17,R_721ScbkaUOMmsp3,,,,,37.4043,-122.0748,anonymous,EN,,,,Conservative,1st year
+2025-05-19 12:56:15,2025-05-19 12:56:30,IP Address,174.238.15.179,60,15,False,2025-05-26 12:56:31,R_3bnu2UjWl5jne13,,,,,37.7428,-122.1745,anonymous,EN,,,,,
+2025-05-26 17:41:41,2025-05-26 17:42:24,IP Address,72.205.80.35,100,42,True,2025-05-26 17:42:24,R_1l03GIPCpIWAMr8,,,,,34.4275,-119.859,anonymous,EN,,,6,Independent,3rd year
+2025-05-27 22:21:20,2025-05-27 22:22:01,IP Address,50.30.175.27,100,40,True,2025-05-27 22:22:02,R_5n6O0qiRB3ygk14,,,,,34.4275,-119.859,anonymous,EN,,,,Independent,4th year
+2025-05-27 22:22:07,2025-05-27 22:22:38,IP Address,50.30.175.27,100,31,True,2025-05-27 22:22:39,R_6zfd8Qa6dzIMqVX,,,,,34.4275,-119.859,anonymous,EN,2,,,Independent,4th year
+2025-05-27 22:32:53,2025-05-27 22:33:41,IP Address,104.28.123.106,100,48,True,2025-05-27 22:33:41,R_61hzcaImVSeTm1Y,,,,,37.9648,-121.77,anonymous,EN,,10,,Independent,4th year
+2025-05-27 22:39:03,2025-05-27 22:39:48,IP Address,23.240.22.254,100,44,True,2025-05-27 22:39:48,R_5dgdcBPUXtlCYv1,,,,,34.4133,-118.0917,anonymous,EN,5,,,Liberal,Other
+2025-05-27 22:53:29,2025-05-27 22:53:57,IP Address,98.35.64.138,100,27,True,2025-05-27 22:53:57,R_11cAwyqKQy45ovq,,,,,37.9964,-122.2901,anonymous,EN,,,5,Liberal,Other
+2025-05-27 22:54:31,2025-05-27 22:55:07,IP Address,98.185.247.204,100,36,True,2025-05-27 22:55:07,R_7ax6PKm7IVHRlEB,,,,,34.4216,-119.7068,anonymous,EN,,1,,Independent,2nd year
+2025-05-27 23:38:07,2025-05-27 23:39:10,IP Address,172.56.168.170,100,62,True,2025-05-27 23:39:10,R_5gTpIhlWUj5NX9f,,,,,38.4799,-121.4451,anonymous,EN,,,8,Liberal,1st year
+2025-05-27 23:50:26,2025-05-27 23:50:53,IP Address,104.28.85.215,100,26,True,2025-05-27 23:50:53,R_1pGQtl3BfvrBNJh,,,,,34.4216,-119.7068,anonymous,EN,,2,,Liberal,1st year
+2025-05-28 00:00:31,2025-05-28 00:01:33,IP Address,184.187.167.247,100,62,True,2025-05-28 00:01:33,R_52ITC4ZfiZIPkFe,,,,,34.4275,-119.859,anonymous,EN,,,8,Conservative,4th year
+2025-05-28 01:56:27,2025-05-28 01:56:57,IP Address,69.181.212.73,100,30,True,2025-05-28 01:56:57,R_1Gy8nZN2SD8PVbh,,,,,37.269,-122.0167,anonymous,EN,8,,,Independent,3rd year
+2025-05-28 03:37:09,2025-05-28 03:37:37,IP Address,172.56.120.90,100,27,True,2025-05-28 03:37:37,R_5jtqSAcv4gmVlpn,,,,,34.1867,-118.3878,anonymous,EN,,6,,Liberal,3rd year
+2025-05-28 07:29:34,2025-05-28 07:30:23,IP Address,128.111.173.2,100,48,True,2025-05-28 07:30:23,R_3pi2qSQVpMCOC1A,,,,,34.4275,-119.859,anonymous,EN,6,,,Liberal,Other
+2025-05-28 07:54:12,2025-05-28 07:54:42,IP Address,169.231.92.97,100,30,True,2025-05-28 07:54:43,R_7a3AYRbchz60VyN,,,,,34.4275,-119.859,anonymous,EN,,,7,Liberal,1st year
+2025-05-28 10:58:24,2025-05-28 10:59:03,IP Address,169.231.240.45,100,38,True,2025-05-28 10:59:03,R_7oXg2AmigMgRDjd,,,,,34.4275,-119.859,anonymous,EN,3,,,Liberal,1st year
+2025-05-28 11:03:39,2025-05-28 11:04:09,IP Address,68.227.81.188,100,29,True,2025-05-28 11:04:09,R_1Rmtscvwq93MkSL,,,,,34.4275,-119.859,anonymous,EN,,0,,Independent,4th year
+2025-05-28 11:04:02,2025-05-28 11:04:23,IP Address,169.231.64.89,100,21,True,2025-05-28 11:04:23,R_63WVxpcio7LWjae,,,,,34.4366,-119.8339,anonymous,EN,,10,,Liberal,3rd year
+2025-05-28 11:07:37,2025-05-28 11:08:20,IP Address,169.231.240.67,100,42,True,2025-05-28 11:08:20,R_5ps9TtnyFALnKOO,,,,,34.4275,-119.859,anonymous,EN,4,,,Liberal,3rd year
+2025-05-28 11:18:20,2025-05-28 11:18:50,IP Address,174.227.183.98,100,29,True,2025-05-28 11:18:51,R_60YudGQbw4dEvIV,,,,,37.6736,-122.0944,anonymous,EN,5,,,Liberal,3rd year
+2025-05-28 11:20:48,2025-05-28 11:21:25,IP Address,169.231.51.137,100,37,True,2025-05-28 11:21:26,R_39quv8b1XCFqfp7,,,,,34.4275,-119.859,anonymous,EN,,,6,Liberal,1st year
+2025-05-28 11:56:49,2025-05-28 11:57:38,IP Address,169.231.46.146,100,49,True,2025-05-28 11:57:39,R_3QLY96EAXQPQhPz,,,,,34.3077,-118.4287,anonymous,EN,,6,,Liberal,1st year
+2025-05-28 12:35:16,2025-05-28 12:35:45,IP Address,169.231.143.11,100,29,True,2025-05-28 12:35:45,R_5qDrOn1Jbhu7RiD,,,,,34.4275,-119.859,anonymous,EN,3,,,Liberal,2nd year
+2025-05-28 12:43:28,2025-05-28 12:44:00,IP Address,47.155.218.176,100,32,True,2025-05-28 12:44:01,R_1E45r7N6vgzyZzY,,,,,34.9535,-120.4348,anonymous,EN,,6,,Liberal,2nd year
+2025-05-28 12:48:41,2025-05-28 12:49:02,IP Address,169.231.241.111,100,20,True,2025-05-28 12:49:02,R_5g4UfUB9ibf4fuT,,,,,34.4275,-119.859,anonymous,EN,,,5,Liberal,1st year
+2025-05-28 14:50:10,2025-05-28 14:50:46,IP Address,184.187.165.191,100,36,True,2025-05-28 14:50:47,R_5tsUZltprvUetxb,,,,,34.4275,-119.859,anonymous,EN,,,4,Liberal,3rd year
+2025-05-28 18:03:18,2025-05-28 18:04:06,IP Address,169.231.60.215,100,48,True,2025-05-28 18:04:06,R_5rl0oQilXbfUBgd,,,,,34.4275,-119.859,anonymous,EN,6,,,Other,2nd year
+2025-05-29 09:10:09,2025-05-29 09:10:31,IP Address,104.28.123.86,100,21,True,2025-05-29 09:10:32,R_7Cim1ygRxPUSHId,,,,,33.7629,-118.1889,anonymous,EN,5,,,Independent,3rd year
+2025-05-22 18:39:52,2025-05-22 18:50:04,IP Address,169.231.117.153,60,611,False,2025-05-29 18:50:08,R_1j75eXoIHsDbMuR,,,,,34.4275,-119.859,anonymous,EN,5,,,,
+2025-05-29 20:52:26,2025-05-29 20:53:25,IP Address,50.30.175.26,100,59,True,2025-05-29 20:53:26,R_3jZij6PRgJUaYr7,,,,,34.4275,-119.859,anonymous,EN,,,5,Liberal,2nd year
+2025-05-29 22:24:55,2025-05-29 22:25:21,IP Address,76.90.36.101,100,25,True,2025-05-29 22:25:21,R_70u4hU1dcVC7rQ5,,,,,34.4444,-119.2551,anonymous,EN,2,,,Liberal,1st year
+2025-05-30 14:10:50,2025-05-30 14:11:41,IP Address,107.77.228.127,100,50,True,2025-05-30 14:11:41,R_6Ylmh0RvpUrNDaL,,,,,33.9555,-118.2863,anonymous,EN,7,,,Liberal,1st year
+2025-05-31 18:50:23,2025-05-31 18:50:45,IP Address,50.30.175.25,100,21,True,2025-05-31 18:50:45,R_7fUqZGYddbFPxbb,,,,,34.4275,-119.859,anonymous,EN,,,9,Liberal,3rd year
+2025-05-31 20:24:07,2025-05-31 20:26:53,IP Address,172.56.121.160,100,166,True,2025-05-31 20:26:53,R_5psgFqRNOll1KWB,,,,,34.2271,-118.4501,anonymous,EN,,6,,Liberal,2nd year
+2025-06-01 10:44:50,2025-06-01 10:46:37,IP Address,68.227.80.16,100,107,True,2025-06-01 10:46:38,R_3IczwQGCQxuLa0x,,,,,34.4275,-119.859,anonymous,EN,,4,,Liberal,2nd year
+2025-06-01 12:16:26,2025-06-01 12:17:07,IP Address,169.231.119.43,100,41,True,2025-06-01 12:17:08,R_7OPRWN9TNEmviBH,,,,,34.4275,-119.859,anonymous,EN,8,,,Liberal,3rd year
+2025-06-01 14:31:48,2025-06-01 14:32:59,IP Address,169.231.187.203,100,70,True,2025-06-01 14:32:59,R_1aDBNYOkmzd4wmo,,,,,34.4366,-119.8339,anonymous,EN,,,7,Liberal,Other
+2025-06-01 15:44:15,2025-06-01 15:44:40,IP Address,68.108.252.77,100,25,True,2025-06-01 15:44:41,R_7rpEgNzbBJMp0YS,,,,,34.4216,-119.7068,anonymous,EN,,,2,Liberal,2nd year
+2025-06-01 16:15:20,2025-06-01 16:16:22,IP Address,73.41.144.241,100,62,True,2025-06-01 16:16:22,R_5dKbxTuZFzaO3bq,,,,,38.5559,-121.7391,anonymous,EN,4,,,Independent,2nd year
+2025-06-02 01:41:50,2025-06-02 01:42:24,IP Address,98.56.128.228,100,33,True,2025-06-02 01:42:25,R_5zbVtzoHFqme5Rn,,,,,38.5376,-121.7402,anonymous,EN,1,,,Liberal,4th year
+2025-05-27 22:52:08,2025-05-27 22:52:42,IP Address,128.111.96.8,60,34,False,2025-06-03 22:52:45,R_500HEUTSYXMaCjf,,,,,34.4366,-119.8339,anonymous,EN,,,7,,
+2025-05-28 01:25:19,2025-05-28 01:25:57,IP Address,146.75.146.93,60,38,False,2025-06-04 01:25:58,R_5EX4MKQ17dnxHaV,,,,,33.6128,-117.6622,anonymous,EN,,4,,,
+2025-05-28 14:20:00,2025-05-28 14:20:26,IP Address,104.28.123.142,60,25,False,2025-06-04 14:20:34,R_3aIunSqfFxAqTyE,,,,,33.5157,-117.7109,anonymous,EN,6,,,,
+2025-06-04 19:04:18,2025-06-04 19:05:04,IP Address,169.231.240.38,100,46,True,2025-06-04 19:05:05,R_1dMjcw7resZ2qcQ,,,,,34.4275,-119.859,anonymous,EN,,6,,Other,3rd year
+2025-06-04 19:05:18,2025-06-04 19:05:48,IP Address,169.231.95.213,100,29,True,2025-06-04 19:05:48,R_5JhPAOwjZQZxPA5,,,,,34.4275,-119.859,anonymous,EN,9,,,Liberal,1st year
+2025-06-04 19:07:17,2025-06-04 19:07:55,IP Address,68.6.94.240,100,38,True,2025-06-04 19:07:55,R_51GFpBehq7R9VCx,,,,,34.4026,-119.7211,anonymous,EN,,7,,Liberal,3rd year
+2025-06-04 19:07:58,2025-06-04 19:08:33,IP Address,169.231.43.168,100,35,True,2025-06-04 19:08:33,R_7qQJKF7p96rn4JE,,,,,34.4275,-119.859,anonymous,EN,,3,,Other,1st year
+2025-06-04 19:08:50,2025-06-04 19:09:05,IP Address,169.231.172.244,100,15,True,2025-06-04 19:09:06,R_5nMz91Palxmizl0,,,,,34.4275,-119.859,anonymous,EN,8,,,Liberal,3rd year
+2025-06-04 19:10:27,2025-06-04 19:10:48,IP Address,98.185.252.155,100,20,True,2025-06-04 19:10:49,R_1LHEfAQLupAB6Zn,,,,,34.4282,-119.6874,anonymous,EN,,,5,Other,Other
+2025-06-04 19:17:49,2025-06-04 19:18:37,IP Address,172.226.3.208,100,48,True,2025-06-04 19:18:38,R_7ymeWqH6ldGmqKb,,,,,33.8375,-117.9123,anonymous,EN,,,0,Liberal,2nd year
+2025-06-04 19:48:39,2025-06-04 19:49:39,IP Address,169.231.49.118,100,59,True,2025-06-04 19:49:40,R_1qlMSr7DYwsrnZF,,,,,34.4275,-119.859,anonymous,EN,6,,,Liberal,1st year
+2025-06-04 19:49:55,2025-06-04 19:50:24,IP Address,97.183.97.244,100,28,True,2025-06-04 19:50:24,R_17TYER8V2BHRDMM,,,,,44.9427,-93.2871,anonymous,EN,,,5,Liberal,Other
+2025-06-04 19:52:52,2025-06-04 19:53:34,IP Address,70.185.138.208,100,42,True,2025-06-04 19:53:35,R_1i9iN8DVPm0Bi0A,,,,,34.445,-119.8046,anonymous,EN,,5,,Conservative,2nd year
+2025-06-04 19:53:17,2025-06-04 19:54:25,IP Address,104.28.124.143,100,68,True,2025-06-04 19:54:26,R_1JC6TrnFbs1JM1I,,,,,33.6128,-117.6622,anonymous,EN,,7,,Liberal,2nd year
+2025-06-04 19:54:09,2025-06-04 19:54:45,IP Address,169.231.18.48,100,35,True,2025-06-04 19:54:45,R_3lABVfNZ0nxjcCL,,,,,34.4275,-119.859,anonymous,EN,,,9,Liberal,4th year
+2025-06-04 19:54:36,2025-06-04 19:55:21,IP Address,169.231.162.143,100,44,True,2025-06-04 19:55:21,R_7FQ8kNWuehWMI3A,,,,,34.4366,-119.8339,anonymous,EN,,8,,Independent,2nd year
+2025-06-04 19:55:01,2025-06-04 19:55:24,IP Address,169.231.18.48,100,23,True,2025-06-04 19:55:25,R_75T8h8qjPE50h74,,,,,34.4275,-119.859,anonymous,EN,10,,,Liberal,3rd year
+2025-06-04 20:03:32,2025-06-04 20:04:26,IP Address,98.185.232.69,100,53,True,2025-06-04 20:04:26,R_6dRtESPLURGpsDO,,,,,34.4398,-119.7315,anonymous,EN,4,,,Liberal,3rd year
+2025-06-04 20:15:01,2025-06-04 20:15:18,IP Address,104.28.123.143,100,16,True,2025-06-04 20:15:18,R_52pu08TYlhnomPf,,,,,33.6128,-117.6622,anonymous,EN,,,5,Liberal,4th year
+2025-06-04 20:34:40,2025-06-04 20:35:24,IP Address,104.28.85.215,100,43,True,2025-06-04 20:35:24,R_3pnEpHfC26rOtF6,,,,,34.4216,-119.7068,anonymous,EN,,0,,Other,1st year
+2025-06-04 20:35:28,2025-06-04 20:35:39,IP Address,104.28.85.215,100,10,True,2025-06-04 20:35:39,R_7ZDOKJtbELFWif6,,,,,34.4216,-119.7068,anonymous,EN,2,,,Independent,2nd year
+2025-06-04 20:43:46,2025-06-04 20:44:08,IP Address,98.51.4.56,100,21,True,2025-06-04 20:44:08,R_5vBrQ4mNl9vVQ89,,,,,37.6736,-122.0944,anonymous,EN,,,,Liberal,3rd year
+2025-06-04 20:53:39,2025-06-04 20:53:50,IP Address,169.231.241.162,100,11,True,2025-06-04 20:53:51,R_7jhZb5xOgDXN8lj,,,,,34.4275,-119.859,anonymous,EN,,,7,Liberal,2nd year
+2025-06-04 20:53:31,2025-06-04 20:54:56,IP Address,184.187.162.190,100,84,True,2025-06-04 20:54:56,R_32yxMp5xsYoEIPM,,,,,34.445,-119.8046,anonymous,EN,6,,,Other,4th year
+2025-06-04 21:04:40,2025-06-04 21:05:19,IP Address,72.205.94.38,100,38,True,2025-06-04 21:05:20,R_5bFCzyUNPzectfr,,,,,34.4398,-119.7315,anonymous,EN,,,5,Liberal,Other
+2025-06-04 21:07:33,2025-06-04 21:08:26,IP Address,169.231.19.109,100,52,True,2025-06-04 21:08:26,R_7IhN6UxsGtBdScY,,,,,34.4275,-119.859,anonymous,EN,,7,,Liberal,4th year
+2025-06-04 21:08:59,2025-06-04 21:09:33,IP Address,169.231.164.240,100,33,True,2025-06-04 21:09:33,R_3IvfCTdgox5zsMw,,,,,34.4275,-119.859,anonymous,EN,6,,,Liberal,1st year
+2025-06-04 21:14:47,2025-06-04 21:15:14,IP Address,174.194.195.252,100,26,True,2025-06-04 21:15:15,R_1DYnuIYX4qwLSSV,,,,,37.8043,-122.2156,anonymous,EN,,7,,Liberal,1st year
+2025-06-04 21:54:21,2025-06-04 21:54:41,IP Address,107.115.224.5,100,20,True,2025-06-04 21:54:42,R_6ETgX7lATFqSqfh,,,,,33.8405,-117.9526,anonymous,EN,,,6,Liberal,3rd year
+2025-06-04 22:08:46,2025-06-04 22:09:16,IP Address,107.115.29.4,100,29,True,2025-06-04 22:09:17,R_5OIornS4I7U0YK8,,,,,38.5639,-121.4418,anonymous,EN,,2,,Independent,Other
+2025-06-04 22:33:55,2025-06-04 22:34:33,IP Address,169.231.240.85,100,38,True,2025-06-04 22:34:33,R_5ZLAz2tGsnDKWTT,,,,,34.4275,-119.859,anonymous,EN,,8,,Liberal,1st year
+2025-06-04 23:30:31,2025-06-04 23:31:06,IP Address,104.28.124.193,100,34,True,2025-06-04 23:31:06,R_5In4R2WzQjx2mWd,,,,,34.4216,-119.7068,anonymous,EN,,7,,Liberal,1st year
+2025-06-04 23:31:46,2025-06-04 23:32:24,IP Address,172.56.47.0,100,38,True,2025-06-04 23:32:25,R_6hXVsSWMExI95gS,,,,,37.7797,-122.4159,anonymous,EN,10,,,Liberal,Other
+2025-06-04 23:35:15,2025-06-04 23:35:49,IP Address,169.231.201.199,100,33,True,2025-06-04 23:35:49,R_70wLRcMRrdgwZ45,,,,,34.4275,-119.859,anonymous,EN,,8,,Liberal,Other
+2025-06-05 00:18:45,2025-06-05 00:19:05,IP Address,184.187.168.26,100,19,True,2025-06-05 00:19:05,R_3VwYkzBMK6sze81,,,,,34.4275,-119.859,anonymous,EN,,7,,Liberal,3rd year
+2025-06-05 00:21:10,2025-06-05 00:21:46,IP Address,64.98.206.44,100,36,True,2025-06-05 00:21:47,R_7i1zYxvn2s3YPAZ,,,,,33.0562,-117.2688,anonymous,EN,4,,,Other,3rd year
+2025-06-05 01:50:28,2025-06-05 01:51:14,IP Address,174.127.233.126,100,45,True,2025-06-05 01:51:14,R_6GxB9usYzjT5243,,,,,47.6733,-122.3426,anonymous,EN,,3,,Liberal,Other
+2025-06-05 02:34:51,2025-06-05 02:35:39,IP Address,169.231.217.244,100,47,True,2025-06-05 02:35:40,R_5hR1SBtsDn2s2KS,,,,,34.4275,-119.859,anonymous,EN,,3,,Independent,3rd year
+2025-06-05 09:55:27,2025-06-05 09:56:17,IP Address,50.53.168.86,100,49,True,2025-06-05 09:56:17,R_6QgJTXXMDpHU6hL,,,,,45.4241,-122.7691,anonymous,EN,4,,,Liberal,Other
+2025-06-05 10:26:45,2025-06-05 10:31:45,IP Address,169.231.136.123,100,299,True,2025-06-05 10:31:45,R_7WIlgraAGcpHdhO,,,,,34.4275,-119.859,anonymous,EN,,,4,Liberal,2nd year

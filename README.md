@@ -1,2 +1,3 @@
-# Decoding-the-College-Liberal-Mindset
-Completed a significant personal project utilizing generalized randomized block design (GRBD) in a survey-based experiment that required sample size calculations, 160+ data samples collected, causal relationship analysis, and an in depth broader discussion all included in a final paper.
+# Decoding-the-College-Liberal-Mindset: 
+## A Generalized Randomized Block Design on Liberal College Student Perspectives and Biasses
+Completed a significant personal project utilizing generalized randomized block design (GRBD) in a survey-based experiment that required sample size calculations, 160+ data samples collected, causal relationship analysis, and an in depth broader discussion all included in a final paper. Also, conducted advanced statistical analyses in R such as ANOVA modelling, Tukey tests, power analyses, multi-dimensional visualizations, normality tests, other data processing techniques in dplyr
